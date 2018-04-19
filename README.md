@@ -16,7 +16,7 @@ LeetCode solutions in C and Python2.
 |120|[Triangle](https://leetcode.com/problems/Triangle/description)|[Python](120.Triangle/solution.py)|[Note](120.Triangle/)|Medium|`Array`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/description)|[C](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.h)|[Note](121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/)|Easy|`Array`|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)|[C](136.Single%20Number/solution.h)|[Note](136.Single%20Number)|Easy|`Hash Table`|
-|152|[Maximum Product Subarray](https://leetcode.com/problems/Maximum-Product-Subarray/description)|[Python](167.Maximum%20Product%20Subarray/solution.py)|[Note](167.Maximum%20Product%20Subarray/)|Medium|`Array`|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/Maximum-Product-Subarray/description)|[Python](152.Maximum%20Product%20Subarray/solution.py)|[Note](167.Maximum%20Product%20Subarray/)|Medium|`Array`|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/Two-Sum-II-Input-array-is-sorted/description)|[C](167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted/solution.h)|[Note](167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted/)|Medium|`Array`|
 |169|[Majority Element](https://leetcode.com/problems/Majority-Element/description)|[C](169.Majority%20Element/solution.h)|[Note](169.Majority%20Element/)|Medium|`Array`|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/submissions/1)|[C](202.Happy%20Number/solution.h)|[Note](136.Happy%20Number)|Easy|`Hash Table`|
