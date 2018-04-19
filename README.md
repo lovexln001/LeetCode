@@ -8,7 +8,7 @@ LeetCode solutions in C and Python2.
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Python](003.Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|[Note](003.Longest%20Substring%20Without%20Repeating%20Characters/)|Medium|`Hash Table`|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Python](004.Median%20of%20Two%20Sorted%20Arrays/solution.py)|[Note](004.Median%20of%20Two%20Sorted%20Arrays/)|Hard|`Array`|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[C](035.Search%20Insert%20Position/solution.h)|[Note](035.Search%20Insert%20Position/)|Hard|`Array`|
-|53|[Maximum Subarray](https://leetcode.com/problems/Maximum-Subarray/description)|[Python]()|[Note](053.Maximum%20Subarray/)|Easy|`Array`|
+|53|[Maximum Subarray](https://leetcode.com/problems/Maximum-Subarray/description)|[Python](053.Maximum%20Subarray/solution.py)|[Note](053.Maximum%20Subarray/)|Easy|`Array`|
 |62|[Unique Paths](https://leetcode.com/problems/Unique-Paths/description)|[Python](062.Unique%20Paths/solution.py)|[Note](062.Unique%20Paths/)|Medium|`Array`|
 |63|[Unique Paths II](https://leetcode.com/problems/Unique-Paths-II/description)|[Python](063.Unique%20Paths%20II/solution.py)|[Note](063.Unique%20Paths%20II/)|Medium|`Array`|
 |64|[Minimum Path Sum](https://leetcode.com/problems/Minimum-Path-Sum/description)|[Python](064.Minimum%20Path%20Sum/solution.py)|[Note](064.Minimum%20Path%20Sum/)|Medium|`Array`|
