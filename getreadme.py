@@ -28,7 +28,7 @@ class Getmem(object):
         myurl = dirname.replace(" ", "%20")
         c_url = "%s/solution.h" % myurl
         python_url = "%s/solution.py" % myurl
-        self.solution = "[C](%s)[Python](%s)" % (c_url, python_url)
+        self.solution = "[C](%s)    [Python](%s)" % (c_url, python_url)
 
     def get_note(self):
         myurl = dirname.replace(" ", "%20")
@@ -59,8 +59,6 @@ LeetCode solutions in C and Python2.
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
-
-
 '''
 
     path = '.'
