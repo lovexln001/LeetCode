@@ -33,7 +33,7 @@ class Getmem(object):
     def get_note(self):
         myurl = dirname.replace(" ", "%20")
         note_url = myurl
-        self.note = "[NOTE](%s)" % note_url
+        self.note = "[note](%s)" % note_url
 
     def get_difficulty(self):
         pass
@@ -63,7 +63,7 @@ LeetCode solutions in C and Python2.
 
     path = '.'
     dirnames = os.listdir(path)
-    sfile = "README_NEW.test"
+    sfile = "README_NEW.md"
 
     with open(sfile, "w") as f:
         f.write(head)
