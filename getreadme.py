@@ -65,7 +65,7 @@ LeetCode solutions in C and Python2.
 
     path = '.'
     dirnames = os.listdir(path)
-    sfile = "README.md.test"
+    sfile = "README_NEW.test"
 
     with open(sfile, "w") as f:
         f.write(head)
