@@ -3,6 +3,7 @@ LeetCode
 ========
 LeetCode solutions in C and Python2.
 
+|NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
 |001|[Two Sum](https://leetcode.com/problems/Two-Sum)|[C](001.Two%20Sum/solution.h) [Python](001.Two%20Sum/solution.py)|[Note](001.Two%20Sum)|||
 |002|[Add Two Numbers](https://leetcode.com/problems/Add-Two-Numbers)|[C](002.Add%20Two%20Numbers/solution.h) [Python](002.Add%20Two%20Numbers/solution.py)|[Note](002.Add%20Two%20Numbers)|||
@@ -17,7 +18,6 @@ LeetCode solutions in C and Python2.
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/Merge-k-Sorted-Lists)|[C](023.Merge%20k%20Sorted%20Lists/solution.h) [Python](023.Merge%20k%20Sorted%20Lists/solution.py)|[Note](023.Merge%20k%20Sorted%20Lists)|||
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/Swap-Nodes-in-Pairs)|[C](024.Swap%20Nodes%20in%20Pairs/solution.h) [Python](024.Swap%20Nodes%20in%20Pairs/solution.py)|[Note](024.Swap%20Nodes%20in%20Pairs)|||
 |035|[Search Insert Position](https://leetcode.com/problems/Search-Insert-Position)|[C](035.Search%20Insert%20Position/solution.h) [Python](035.Search%20Insert%20Position/solution.py)|[Note](035.Search%20Insert%20Position)|||
-|041|[Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle)|[C](041.Linked%20List%20Cycle/solution.h) [Python](041.Linked%20List%20Cycle/solution.py)|[Note](041.Linked%20List%20Cycle)|||
 |053|[Maximum Subarray](https://leetcode.com/problems/Maximum-Subarray)|[C](053.Maximum%20Subarray/solution.h) [Python](053.Maximum%20Subarray/solution.py)|[Note](053.Maximum%20Subarray)|||
 |062|[Unique Paths](https://leetcode.com/problems/Unique-Paths)|[C](062.Unique%20Paths/solution.h) [Python](062.Unique%20Paths/solution.py)|[Note](062.Unique%20Paths)|||
 |063|[Unique Paths II](https://leetcode.com/problems/Unique-Paths-II)|[C](063.Unique%20Paths%20II/solution.h) [Python](063.Unique%20Paths%20II/solution.py)|[Note](063.Unique%20Paths%20II)|||
