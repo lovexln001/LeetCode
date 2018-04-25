@@ -18,3 +18,9 @@ class Solution(object):
             max_len = max(max_len, cur_len)
             end += 1
         return max_len
+
+if __name__ == "__main__":
+    string = "pwwkew"
+    s = Solution()
+    g = s.lengthOfLongestSubstring(string)
+    print "Given: %s, the answeris: %s" % (string, g)
